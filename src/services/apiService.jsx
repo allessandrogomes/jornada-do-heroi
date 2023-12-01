@@ -1,6 +1,6 @@
 export const chamadaAPI = async () => {
     try {
-        const resposta = await fetch('http://homologacao3.azapfy.com.br/api/ps/metahumans')
+        const resposta = await fetch('./herois.json')
 
         if (!resposta.ok) {
             throw new Error('Erro ao obter dados da API')
