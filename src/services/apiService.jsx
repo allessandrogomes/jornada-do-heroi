@@ -1,6 +1,6 @@
 export const chamadaAPI = async () => {
     try {
-        const resposta = await fetch('./herois.json')
+        const resposta = await fetch('https://raw.githubusercontent.com/allessandrogomes/jornada-do-heroi/main/herois.json')
 
         if (!resposta.ok) {
             throw new Error('Erro ao obter dados da API')
