@@ -13,8 +13,8 @@ Trata-se de um desafio Front End fornecido pela Azapfy, uma aplicação de "jogo
 - [Filtragem](#filtragem)
 - [Lazy Loading](#lazy-loading)
 - [Responsividade](#responsividade)
-- [Acesso ao Projeto](#acesso-ao-projeto)
-- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Acesso ao Projeto](#file_folder-acesso-ao-projeto)
+- [Tecnologias utilizadas](#heavy_check_mark-tecnologias-utilizadas)
 - [Autor](#autor)
 
 # Como jogar
